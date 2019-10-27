@@ -8,7 +8,9 @@
         "MakerBit-Touch": "github:1010technologies/pxt-makerbit-touch#v1.2.1"
     },
     "files": [
-        "README.md"
+        "README.md",
+        "tutorial1.md",
+        "tutorial2.md"
     ],
     "public": true
 }
