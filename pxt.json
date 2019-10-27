@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "MakerBit-Touch": "github:1010technologies/pxt-makerbit-touch#v1.2.1"
+        "MakerBit": "github:1010technologies/pxt-makerbit#v1.3.3"
     },
     "files": [
         "README.md",
