@@ -1,0 +1,13 @@
+{
+    "name": "super-tut",
+    "version": "1.3.3",
+    "description": "A nice description",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md"
+    ],
+    "public": true
+}
